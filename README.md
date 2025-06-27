@@ -1,2 +1,3 @@
-# 우하하하하
-나는 해커다
+# Fizzbuzz Project
+
+This is Perfect Fizzbuzz for python users.
